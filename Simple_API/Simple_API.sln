@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_API", "Simple_API\Simple_API.csproj", "{71D5208F-546F-46B9-9FC8-004FD8EA64DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Client", "Simple Client\Simple Client.csproj", "{B778AFDA-336B-47F7-9B42-D9595EB7BE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Server", "API_Server\API_Server.csproj", "{4356BA38-2D94-48B0-B416-FE69CE1D0F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D5208F-546F-46B9-9FC8-004FD8EA64DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D5208F-546F-46B9-9FC8-004FD8EA64DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D5208F-546F-46B9-9FC8-004FD8EA64DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D5208F-546F-46B9-9FC8-004FD8EA64DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B778AFDA-336B-47F7-9B42-D9595EB7BE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B778AFDA-336B-47F7-9B42-D9595EB7BE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B778AFDA-336B-47F7-9B42-D9595EB7BE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B778AFDA-336B-47F7-9B42-D9595EB7BE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4356BA38-2D94-48B0-B416-FE69CE1D0F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4356BA38-2D94-48B0-B416-FE69CE1D0F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4356BA38-2D94-48B0-B416-FE69CE1D0F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4356BA38-2D94-48B0-B416-FE69CE1D0F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

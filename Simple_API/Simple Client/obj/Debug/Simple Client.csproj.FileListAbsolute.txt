@@ -1,0 +1,11 @@
+D:\Programming\My Projects\Simple_API\Simple Client\bin\Debug\Simple Client.exe.config
+D:\Programming\My Projects\Simple_API\Simple Client\bin\Debug\Simple Client.exe
+D:\Programming\My Projects\Simple_API\Simple Client\bin\Debug\Simple Client.pdb
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple Client.csprojResolveAssemblyReference.cache
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple_Client.Form1.resources
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple_Client.Properties.Resources.resources
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple Client.csproj.GenerateResource.Cache
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple Client.exe
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple Client.pdb
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple_Client.Chat.resources
+D:\Programming\My Projects\Simple_API\Simple Client\obj\Debug\Simple_Client.ControlPanel.resources

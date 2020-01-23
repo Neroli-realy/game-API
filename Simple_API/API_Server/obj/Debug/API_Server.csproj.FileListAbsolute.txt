@@ -1,0 +1,6 @@
+D:\Programming\My Projects\Simple_API\API_Server\bin\Debug\API_Server.exe.config
+D:\Programming\My Projects\Simple_API\API_Server\bin\Debug\API_Server.exe
+D:\Programming\My Projects\Simple_API\API_Server\bin\Debug\API_Server.pdb
+D:\Programming\My Projects\Simple_API\API_Server\obj\Debug\API_Server.csprojResolveAssemblyReference.cache
+D:\Programming\My Projects\Simple_API\API_Server\obj\Debug\API_Server.exe
+D:\Programming\My Projects\Simple_API\API_Server\obj\Debug\API_Server.pdb
